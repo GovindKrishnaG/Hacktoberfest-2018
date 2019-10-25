@@ -26,6 +26,6 @@ You can add references to some cool open source projects below:
        List of data structures and algorithms. Feel free to contribute under Hacktoberfest '18!
        
        
-### 6.[Markdown Cheatsheet for JupyterNotebook ]
+### 6.Markdown Cheatsheet for JupyterNotebook 
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
